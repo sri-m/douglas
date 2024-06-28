@@ -14,3 +14,5 @@ Test case:
 2.click and accept all cookie button
 3.click on Parfum link
 4.list products
+
+Note: clone and run npm install
